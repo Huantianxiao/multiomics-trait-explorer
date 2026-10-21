@@ -1,0 +1,201 @@
+protein,feature,layer,gene,link_type,source
+SIM_P001,SIM_GENE_001,expression,SIM_GENE_001,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P001,SIM_CpG_001,methylation,SIM_GENE_001,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P001,SIM_CpG_002,methylation,SIM_GENE_001,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P001,SIM_miR_001,mirna,SIM_GENE_001,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P002,SIM_GENE_002,expression,SIM_GENE_002,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P002,SIM_CpG_003,methylation,SIM_GENE_002,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P002,SIM_CpG_004,methylation,SIM_GENE_002,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P002,SIM_miR_002,mirna,SIM_GENE_002,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P003,SIM_GENE_003,expression,SIM_GENE_003,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P003,SIM_CpG_005,methylation,SIM_GENE_003,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P003,SIM_CpG_006,methylation,SIM_GENE_003,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P003,SIM_miR_003,mirna,SIM_GENE_003,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P004,SIM_GENE_004,expression,SIM_GENE_004,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P004,SIM_CpG_007,methylation,SIM_GENE_004,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P004,SIM_CpG_008,methylation,SIM_GENE_004,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P004,SIM_miR_004,mirna,SIM_GENE_004,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P005,SIM_GENE_005,expression,SIM_GENE_005,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P005,SIM_CpG_009,methylation,SIM_GENE_005,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P005,SIM_CpG_010,methylation,SIM_GENE_005,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P005,SIM_miR_005,mirna,SIM_GENE_005,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P006,SIM_GENE_006,expression,SIM_GENE_006,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P006,SIM_CpG_011,methylation,SIM_GENE_006,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P006,SIM_CpG_012,methylation,SIM_GENE_006,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P006,SIM_miR_006,mirna,SIM_GENE_006,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P007,SIM_GENE_007,expression,SIM_GENE_007,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P007,SIM_CpG_013,methylation,SIM_GENE_007,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P007,SIM_CpG_014,methylation,SIM_GENE_007,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P007,SIM_miR_007,mirna,SIM_GENE_007,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P008,SIM_GENE_008,expression,SIM_GENE_008,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P008,SIM_CpG_015,methylation,SIM_GENE_008,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P008,SIM_CpG_016,methylation,SIM_GENE_008,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P008,SIM_miR_008,mirna,SIM_GENE_008,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P009,SIM_GENE_009,expression,SIM_GENE_009,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P009,SIM_CpG_017,methylation,SIM_GENE_009,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P009,SIM_CpG_018,methylation,SIM_GENE_009,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P009,SIM_miR_009,mirna,SIM_GENE_009,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P010,SIM_GENE_010,expression,SIM_GENE_010,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P010,SIM_CpG_019,methylation,SIM_GENE_010,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P010,SIM_CpG_020,methylation,SIM_GENE_010,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P010,SIM_miR_010,mirna,SIM_GENE_010,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P011,SIM_GENE_011,expression,SIM_GENE_011,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P011,SIM_CpG_021,methylation,SIM_GENE_011,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P011,SIM_CpG_022,methylation,SIM_GENE_011,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P011,SIM_miR_011,mirna,SIM_GENE_011,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P012,SIM_GENE_012,expression,SIM_GENE_012,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P012,SIM_CpG_023,methylation,SIM_GENE_012,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P012,SIM_CpG_024,methylation,SIM_GENE_012,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P012,SIM_miR_012,mirna,SIM_GENE_012,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P013,SIM_GENE_013,expression,SIM_GENE_013,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P013,SIM_CpG_025,methylation,SIM_GENE_013,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P013,SIM_CpG_026,methylation,SIM_GENE_013,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P013,SIM_miR_013,mirna,SIM_GENE_013,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P014,SIM_GENE_014,expression,SIM_GENE_014,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P014,SIM_CpG_027,methylation,SIM_GENE_014,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P014,SIM_CpG_028,methylation,SIM_GENE_014,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P014,SIM_miR_014,mirna,SIM_GENE_014,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P015,SIM_GENE_015,expression,SIM_GENE_015,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P015,SIM_CpG_029,methylation,SIM_GENE_015,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P015,SIM_CpG_030,methylation,SIM_GENE_015,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P015,SIM_miR_015,mirna,SIM_GENE_015,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P016,SIM_GENE_016,expression,SIM_GENE_016,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P016,SIM_CpG_031,methylation,SIM_GENE_016,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P016,SIM_CpG_032,methylation,SIM_GENE_016,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P016,SIM_miR_016,mirna,SIM_GENE_016,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P017,SIM_GENE_017,expression,SIM_GENE_017,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P017,SIM_CpG_033,methylation,SIM_GENE_017,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P017,SIM_CpG_034,methylation,SIM_GENE_017,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P017,SIM_miR_017,mirna,SIM_GENE_017,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P018,SIM_GENE_018,expression,SIM_GENE_018,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P018,SIM_CpG_035,methylation,SIM_GENE_018,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P018,SIM_CpG_036,methylation,SIM_GENE_018,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P018,SIM_miR_018,mirna,SIM_GENE_018,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P019,SIM_GENE_019,expression,SIM_GENE_019,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P019,SIM_CpG_037,methylation,SIM_GENE_019,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P019,SIM_CpG_038,methylation,SIM_GENE_019,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P019,SIM_miR_019,mirna,SIM_GENE_019,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P020,SIM_GENE_020,expression,SIM_GENE_020,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P020,SIM_CpG_039,methylation,SIM_GENE_020,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P020,SIM_CpG_040,methylation,SIM_GENE_020,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P020,SIM_miR_020,mirna,SIM_GENE_020,synthetic target hypothesis; NOT experimental validation,SIMULATED annotation v1
+SIM_P021,SIM_GENE_021,expression,SIM_GENE_021,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P021,SIM_CpG_041,methylation,SIM_GENE_021,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P021,SIM_CpG_042,methylation,SIM_GENE_021,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P022,SIM_GENE_022,expression,SIM_GENE_022,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P022,SIM_CpG_043,methylation,SIM_GENE_022,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P022,SIM_CpG_044,methylation,SIM_GENE_022,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P023,SIM_GENE_023,expression,SIM_GENE_023,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P023,SIM_CpG_045,methylation,SIM_GENE_023,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P023,SIM_CpG_046,methylation,SIM_GENE_023,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P024,SIM_GENE_024,expression,SIM_GENE_024,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P024,SIM_CpG_047,methylation,SIM_GENE_024,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P024,SIM_CpG_048,methylation,SIM_GENE_024,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P025,SIM_GENE_025,expression,SIM_GENE_025,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P025,SIM_CpG_049,methylation,SIM_GENE_025,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P025,SIM_CpG_050,methylation,SIM_GENE_025,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P026,SIM_GENE_026,expression,SIM_GENE_026,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P026,SIM_CpG_051,methylation,SIM_GENE_026,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P026,SIM_CpG_052,methylation,SIM_GENE_026,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P027,SIM_GENE_027,expression,SIM_GENE_027,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P027,SIM_CpG_053,methylation,SIM_GENE_027,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P027,SIM_CpG_054,methylation,SIM_GENE_027,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P028,SIM_GENE_028,expression,SIM_GENE_028,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P028,SIM_CpG_055,methylation,SIM_GENE_028,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P028,SIM_CpG_056,methylation,SIM_GENE_028,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P029,SIM_GENE_029,expression,SIM_GENE_029,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P029,SIM_CpG_057,methylation,SIM_GENE_029,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P029,SIM_CpG_058,methylation,SIM_GENE_029,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P030,SIM_GENE_030,expression,SIM_GENE_030,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P030,SIM_CpG_059,methylation,SIM_GENE_030,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P030,SIM_CpG_060,methylation,SIM_GENE_030,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P031,SIM_GENE_031,expression,SIM_GENE_031,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P031,SIM_CpG_061,methylation,SIM_GENE_031,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P031,SIM_CpG_062,methylation,SIM_GENE_031,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P032,SIM_GENE_032,expression,SIM_GENE_032,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P032,SIM_CpG_063,methylation,SIM_GENE_032,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P032,SIM_CpG_064,methylation,SIM_GENE_032,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P033,SIM_GENE_033,expression,SIM_GENE_033,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P033,SIM_CpG_065,methylation,SIM_GENE_033,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P033,SIM_CpG_066,methylation,SIM_GENE_033,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P034,SIM_GENE_034,expression,SIM_GENE_034,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P034,SIM_CpG_067,methylation,SIM_GENE_034,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P034,SIM_CpG_068,methylation,SIM_GENE_034,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P035,SIM_GENE_035,expression,SIM_GENE_035,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P035,SIM_CpG_069,methylation,SIM_GENE_035,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P035,SIM_CpG_070,methylation,SIM_GENE_035,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P036,SIM_GENE_036,expression,SIM_GENE_036,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P036,SIM_CpG_071,methylation,SIM_GENE_036,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P036,SIM_CpG_072,methylation,SIM_GENE_036,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P037,SIM_GENE_037,expression,SIM_GENE_037,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P037,SIM_CpG_073,methylation,SIM_GENE_037,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P037,SIM_CpG_074,methylation,SIM_GENE_037,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P038,SIM_GENE_038,expression,SIM_GENE_038,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P038,SIM_CpG_075,methylation,SIM_GENE_038,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P038,SIM_CpG_076,methylation,SIM_GENE_038,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P039,SIM_GENE_039,expression,SIM_GENE_039,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P039,SIM_CpG_077,methylation,SIM_GENE_039,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P039,SIM_CpG_078,methylation,SIM_GENE_039,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P040,SIM_GENE_040,expression,SIM_GENE_040,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P040,SIM_CpG_079,methylation,SIM_GENE_040,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P040,SIM_CpG_080,methylation,SIM_GENE_040,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P041,SIM_GENE_041,expression,SIM_GENE_041,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P041,SIM_CpG_081,methylation,SIM_GENE_041,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P041,SIM_CpG_082,methylation,SIM_GENE_041,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P042,SIM_GENE_042,expression,SIM_GENE_042,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P042,SIM_CpG_083,methylation,SIM_GENE_042,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P042,SIM_CpG_084,methylation,SIM_GENE_042,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P043,SIM_GENE_043,expression,SIM_GENE_043,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P043,SIM_CpG_085,methylation,SIM_GENE_043,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P043,SIM_CpG_086,methylation,SIM_GENE_043,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P044,SIM_GENE_044,expression,SIM_GENE_044,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P044,SIM_CpG_087,methylation,SIM_GENE_044,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P044,SIM_CpG_088,methylation,SIM_GENE_044,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P045,SIM_GENE_045,expression,SIM_GENE_045,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P045,SIM_CpG_089,methylation,SIM_GENE_045,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P045,SIM_CpG_090,methylation,SIM_GENE_045,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P046,SIM_GENE_046,expression,SIM_GENE_046,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P046,SIM_CpG_091,methylation,SIM_GENE_046,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P046,SIM_CpG_092,methylation,SIM_GENE_046,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P047,SIM_GENE_047,expression,SIM_GENE_047,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P047,SIM_CpG_093,methylation,SIM_GENE_047,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P047,SIM_CpG_094,methylation,SIM_GENE_047,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P048,SIM_GENE_048,expression,SIM_GENE_048,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P048,SIM_CpG_095,methylation,SIM_GENE_048,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P048,SIM_CpG_096,methylation,SIM_GENE_048,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P049,SIM_GENE_049,expression,SIM_GENE_049,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P049,SIM_CpG_097,methylation,SIM_GENE_049,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P049,SIM_CpG_098,methylation,SIM_GENE_049,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P050,SIM_GENE_050,expression,SIM_GENE_050,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P050,SIM_CpG_099,methylation,SIM_GENE_050,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P050,SIM_CpG_100,methylation,SIM_GENE_050,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P051,SIM_GENE_051,expression,SIM_GENE_051,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P051,SIM_CpG_101,methylation,SIM_GENE_051,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P051,SIM_CpG_102,methylation,SIM_GENE_051,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P052,SIM_GENE_052,expression,SIM_GENE_052,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P052,SIM_CpG_103,methylation,SIM_GENE_052,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P052,SIM_CpG_104,methylation,SIM_GENE_052,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P053,SIM_GENE_053,expression,SIM_GENE_053,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P053,SIM_CpG_105,methylation,SIM_GENE_053,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P053,SIM_CpG_106,methylation,SIM_GENE_053,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P054,SIM_GENE_054,expression,SIM_GENE_054,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P054,SIM_CpG_107,methylation,SIM_GENE_054,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P054,SIM_CpG_108,methylation,SIM_GENE_054,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P055,SIM_GENE_055,expression,SIM_GENE_055,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P055,SIM_CpG_109,methylation,SIM_GENE_055,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P055,SIM_CpG_110,methylation,SIM_GENE_055,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P056,SIM_GENE_056,expression,SIM_GENE_056,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P056,SIM_CpG_111,methylation,SIM_GENE_056,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P056,SIM_CpG_112,methylation,SIM_GENE_056,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P057,SIM_GENE_057,expression,SIM_GENE_057,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P057,SIM_CpG_113,methylation,SIM_GENE_057,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P057,SIM_CpG_114,methylation,SIM_GENE_057,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P058,SIM_GENE_058,expression,SIM_GENE_058,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P058,SIM_CpG_115,methylation,SIM_GENE_058,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P058,SIM_CpG_116,methylation,SIM_GENE_058,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P059,SIM_GENE_059,expression,SIM_GENE_059,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P059,SIM_CpG_117,methylation,SIM_GENE_059,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P059,SIM_CpG_118,methylation,SIM_GENE_059,synthetic gene-body annotation,SIMULATED annotation v1
+SIM_P060,SIM_GENE_060,expression,SIM_GENE_060,synthetic encoding-gene mapping,SIMULATED annotation v1
+SIM_P060,SIM_CpG_119,methylation,SIM_GENE_060,synthetic promoter annotation,SIMULATED annotation v1
+SIM_P060,SIM_CpG_120,methylation,SIM_GENE_060,synthetic gene-body annotation,SIMULATED annotation v1

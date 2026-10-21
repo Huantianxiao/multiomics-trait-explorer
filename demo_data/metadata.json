@@ -1,0 +1,11 @@
+{
+  "version": "synthetic-v1",
+  "seed": 2026,
+  "n": 600,
+  "synthetic": true,
+  "tissue": "SIMULATED blood",
+  "ancestry": "SIMULATED homogeneous population",
+  "genome_build": "SIM_BUILD_1 (fictional)",
+  "independent_participants": true,
+  "genetic_note": "Independent artificial summary-statistic studies, not derived from cohort data."
+}
