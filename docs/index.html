@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trait & Multi-omics</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f7f9fc;
+      color: #243746;
+      font: 17px/1.7 system-ui, sans-serif;
+    }
+    main {
+      max-width: 920px;
+      margin: auto;
+      padding: 60px 24px;
+    }
+    h1, h2 { color: #183854; line-height: 1.25; }
+    h1 { font-size: 42px; margin-bottom: 16px; }
+    h2 { margin-top: 42px; }
+    .subtitle { font-size: 21px; }
+    .button {
+      display: inline-block;
+      background: #176b87;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .notice {
+      margin: 28px 0;
+      padding: 16px 20px;
+      background: #fff4d6;
+      border-radius: 8px;
+    }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border: 1px solid #dce6ef;
+      border-radius: 12px;
+    }
+    code {
+      overflow-wrap: anywhere;
+      background: #eaf0f5;
+      padding: 3px 6px;
+      border-radius: 4px;
+    }
+    footer {
+      margin-top: 48px;
+      border-top: 1px solid #dce6ef;
+      padding-top: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Trait & Multi-omics</h1>
+  <p class="subtitle">
+    Explore associations between traits and proteins,
+    then examine supporting molecular and genetic evidence.
+  </p>
+
+  <a class="button" href="https://multiomics-trait-explorer.streamlit.app/">
+    Open app →
+  </a>
+
+  <div class="notice">
+    <strong>Research software demonstration.</strong>
+    All included data and biological annotations are simulated.
+    Results illustrate the workflow and do not establish
+    real biological associations or causal effects.
+  </div>
+
+  <h2>About the project</h2>
+  <p>
+    Trait & Multi-omics is an interactive research prototype
+    built with Python, Streamlit, and LangGraph. Users enter
+    a question, review the proposed analysis plan, and explore
+    results through tables and interactive charts.
+  </p>
+  <p>
+    The demonstration supports systolic blood pressure (SBP)
+    and HbA1c, combining protein association analysis with
+    simulated RNA expression, microRNA, DNA methylation,
+    Mendelian randomization, regional colocalization,
+    and GO-style enrichment.
+  </p>
+
+  <h2>App preview</h2>
+  <img
+    src="app-preview.png"
+    alt="Screenshot of the Trait & Multi-omics demonstration app"
+    loading="lazy"
+  >
+
+  <h2>How to use it</h2>
+  <ol>
+    <li>Click <strong>Open app</strong>.</li>
+    <li>Select <strong>Guided demo (no API)</strong>.</li>
+    <li>
+      Click <strong>Explore SBP · all modules</strong>,
+      or enter the example question below.
+    </li>
+    <li>
+      Review the trait, adjustment covariates, analysis modules,
+      and false discovery rate threshold.
+    </li>
+    <li>Click <strong>Run this analysis</strong>.</li>
+    <li>Explore the results and download the results ZIP.</li>
+  </ol>
+
+  <p><strong>Example question:</strong></p>
+  <p>
+    <code>Find proteins associated with SBP and integrate all analyses.</code>
+  </p>
+
+  <h2>Downloads</h2>
+  <p>
+    The app can export result tables, a report, the analysis
+    plan, workflow information, and provenance in a ZIP file.
+  </p>
+
+  <h2>Optional AI interpretation</h2>
+  <p>
+    Guided demo mode requires no API key. OpenAI API mode
+    requires your own API key and a supported model.
+    Review the app’s displayed transmission scope before enabling it.
+  </p>
+
+  <footer>
+    Trait & Multi-omics · Simulated-data research prototype
+  </footer>
+</main>
+</body>
+</html>
