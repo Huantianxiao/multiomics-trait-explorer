@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+.streamlit/secrets.toml
+server.*.log
+demo_data/
+outputs/
+*.zip
